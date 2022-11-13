@@ -1,0 +1,12 @@
+.show{
+	flex: 0 0 auto;
+	overflow: hidden;
+}
+
+.picture{
+	height: 188px;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	width: 220px;
+	background-color: #ccc;
+	position: relative;
+}

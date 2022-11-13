@@ -1,0 +1,13 @@
+.shapes{
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	flex: 0 0 30%;
+	
+}
+
+.section{
+	display: flex;
+	gap: 10px;
+	
+}

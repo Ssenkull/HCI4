@@ -1,0 +1,17 @@
+.radio{
+	cursor: pointer;
+}
+.radio input{
+	margin-right: 5px;
+	cursor: pointer;
+	padding: 5px 0;
+}
+
+.radio:not(:last-child){
+	margin-bottom: 5px;
+}
+
+.radio label{
+	cursor: pointer;
+	padding: 5px 0;
+}
